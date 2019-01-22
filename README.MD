@@ -1,8 +1,10 @@
 # Project 1: SAT/ACT Data
 
+![](./images/cover.jpg)
+
 ### Background Information
-- _Standardized college tests are the key for high school seniors need to have in order to access the world of college. Evaluating students across different locations, demographics, and societies through a standardized test is one of the ways that colleges can get an objective idea of how prepared a student is to succeed in college. There are two main standardized college entrance exams: the **SAT** (Scholastic Aptitude Test) and the **ACT** (American College Testing)._
-- _As a past high school mathematics teacher with great interest in applying my data analyzation skills to the realm of educaiton, analyzing the data on SAT and ACT tests is extremely relevant and meaningful for me, as well as being a great domain in which to hone my data analyzing skills._
+- _Standardized college tests are crucial for high school seniors to access the world of college. Evaluating students across different locations, demographics, and societies through a standardized test is one of the ways that colleges can get an objective idea of how prepared a student is to succeed in college. There are two main standardized college entrance exams in the United States: the **SAT** (Scholastic Aptitude Test) and the **ACT** (American College Testing)._
+- _As a past high school mathematics teacher with great interest in applying my data analyzation skills to the realm of education, analyzing the data on SAT and ACT tests is extremely relevant and meaningful for me, as well as being a great domain in which to hone my data analyzing skills._
 
 ### Goal
 - _We will be comparing various facets of both tests to discover any interesting patterns, as well as focus in on **expanding the SAT participation rate in Alaska.**_
@@ -48,6 +50,3 @@
 
 **Other Files**
 - Presentation.pdf: Presentation for Non-Technical Audience
-
-### Executive Summary (Not required for this project but recommended.)
-Written summary of the major steps and findings I took during this project.
