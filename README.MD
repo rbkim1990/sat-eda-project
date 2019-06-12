@@ -1,4 +1,4 @@
-# Project 1: SAT/ACT Data
+# SAT/ACT Data Exploration and Analysis
 
 ![](./images/cover.jpg)
 
