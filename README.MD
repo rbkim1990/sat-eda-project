@@ -9,7 +9,7 @@
 ### Problem Statement
 - _The purpose of this project is to explore the various facets of both SAT and ACT tests from 2017 and 2018, to discover any interesting patterns, as well as focus in on **expanding the SAT participation rate in Alaska.**_
 
-### Project Outline
+### Executive Summary
 - Collect SAT and ACT data from 2017 and 2018 and combine with relevant state information (median income, college bound percent, population, etc.).
 - Perform exploratory data analysis to understand relationships and patterns between different facets of data.
 - Assess data and choose a state “market” that the College Board can expand in
@@ -59,4 +59,4 @@
 
 **Other Files**
 - Presentation.pdf : Presentation for Non-Technical Audience
-- simple_functions.py : Python file that houses simple functions for various purposes used in notebooks
+- `simple_functions.py` : Python file that houses simple functions for various purposes used in notebooks
